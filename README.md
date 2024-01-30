@@ -23,6 +23,9 @@ Open `settings.json` and add these lines to the end of file:
   "editor.formatOnSave": true,
   "editor.formatOnPaste": false,
   "eslint.run": "onSave",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },

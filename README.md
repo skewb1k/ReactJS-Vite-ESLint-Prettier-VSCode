@@ -12,9 +12,9 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension rvest.vs-code-prettier-eslint
 ```
 
-### 2. Configure your project to use it
+### 2. Configure your project
 
-Add `.eslintrc`, `.prettierrc`, `package.json` files in root folder of your project.
+Add `.eslintrc`, `.prettierrc`, `package.json` files in root folder of your project
 
 ### 3. Configure VSCode settings
 
@@ -37,4 +37,4 @@ Open `settings.json` and add these lines to the end of file:
 }
 ```
 
-## Now you can format your .js and .jsx files with a simple ctrl+s
+## Now you can format your .js and .jsx files with a simple ctrl+s!

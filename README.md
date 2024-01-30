@@ -1,7 +1,5 @@
 # ReactJS-Vite-ESLint-Prettier-VSCode
 
-Quick setup ESLint + Prettier extintions for VSCode usefull for ReactJS + Vite
-
 ## Set up
 
 ### 1. Install extintions

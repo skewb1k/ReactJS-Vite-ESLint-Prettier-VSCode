@@ -37,4 +37,4 @@ Open `settings.json` and add these lines to the end of file:
 }
 ```
 
-## Now you can format your .js files with a simple ctrl+s
+## Now you can format your .js and .jsx files with a simple ctrl+s
